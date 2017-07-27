@@ -1,0 +1,18 @@
+SMAP
+showPorts_jsp.java
+JSP
+*S JSP
+*F
++ 0 showPorts.jsp
+showPorts.jsp
+*L
+5,14:46
+18,12:60
+29,8:72
+37,2:81
+38:83
+39,3:84,3
+42:93
+43:94,3
+44,6:97
+*E

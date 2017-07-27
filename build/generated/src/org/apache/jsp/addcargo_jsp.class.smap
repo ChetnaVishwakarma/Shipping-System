@@ -1,0 +1,13 @@
+SMAP
+addcargo_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcargo.jsp
+addcargo.jsp
+*L
+1,28:47
+28,5:75
+33,13:81
+45,6:94
+*E

@@ -1,0 +1,45 @@
+/* 
+    Document   : style
+    Created on : Oct 22, 2016, 1:30:11 PM
+    Author     : DELL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    
+    
+    
+    background-image: url(shippic.jpg) ;
+     background-size: 100% 100%;
+     height: 800px;
+     padding: 10px;
+     color:blue;
+    background-repeat: no-repeat; 
+    font-size: 20px;
+    
+}
+form{
+    margin-left: 40%;
+    margin-top: 5%;
+        
+    }
+    
+    flll{
+       height: auto;
+       width: 200px;
+       color: blue;
+    }
+    a{
+        color: white;
+        
+    }
